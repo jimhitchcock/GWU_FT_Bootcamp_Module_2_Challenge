@@ -6,7 +6,6 @@ This contains a helper function for loading and saving CSV files.
 """
 import csv
 
-
 def load_csv(csvpath):
     """Reads the CSV file from path provided.
 
@@ -40,11 +39,8 @@ def save_csv(csvpath, data):
 
     """
     header = ["Bank","Credit Score","Debt","Income","Loan Amount","Home Value"]     # Header values
-    output_path = Path(csvpath)                                                     # Create variable to be filled by user input with questionary      
+    output_path = csvpath                                                    # Create variable to be filled by user input with questionary      
     with open(output_path, "w", newline="") as csvfile:                             # 
         cheap_loans = csv.writer(csvfile)
         cheap_loans.writerow(header)
-        for row in data:                                                            # for loop to write each row to the csvfile
-            cheap_loans = writerow(row)
-            print(row)
-
+        cheap_loans.writerows(data)
