@@ -30,7 +30,7 @@ def load_csv(csvpath):
     return data
 
 
-def save_csv(csvpath, data, header=None):
+def save_csv(csvpath, data):
     """Saves the CSV file from path provided.
 
     Args:
@@ -39,8 +39,12 @@ def save_csv(csvpath, data, header=None):
         header (list): An optional header for the CSV.
 
     """
-    with open(csvpath, "w", newline="") as csvfile:
-        csvwriter = csv.writer(csvfile, delimiter=',')
-        if header:
-            csvwriter.writerow(header)
-        csvwriter.writerows(data)
+    header = ["Bank","Credit Score","Debt","Income","Loan Amount","Home Value"]     # Header values
+    output_path = Path(csvpath)                                                     # Create variable to be filled by user input with questionary      
+    with open(output_path, "w", newline="") as csvfile:                             # 
+        cheap_loans = csv.writer(csvfile)
+        cheap_loans.writerow(header)
+        for row in data:                                                            # for loop to write each row to the csvfile
+            cheap_loans = writerow(row)
+            print(row)
+
