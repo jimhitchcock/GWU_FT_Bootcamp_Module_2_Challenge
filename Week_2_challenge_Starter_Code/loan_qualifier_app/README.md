@@ -1,10 +1,18 @@
-# Project Title
+# Loan Qualifier Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+**Welcome to my repository for the Loan Qualifier App.  Please explore the codebase!**
+>"...making finding loans easy!"
+
+The loan qualifier app will allow the user to easily filter and return only the loans that the user qualifies.  No more searching through endless spreadsheets of lenders and manually matching their quidelines to your qualifications.
 
 ---
 
 ## Technologies
+
+This app was written with [Python 3.7.13](https://www.python.org/downloads/release/python-3713/)
+Command Line Interface ussing the: 
+[Fire library](https://pypi.org/project/fire/)
+[Questionary Library](https://pypi.org/project/questionary/)
 
 Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
@@ -12,22 +20,27 @@ Describe the technologies required to use your project such as programming langu
 
 ## Installation Guide
 
-In this section, you should include detailed installation notes containing code blocks and screenshots.
+Before running the application first install the following dependencies. 
+```pip install fire
+   pip install questionary```
 
 ---
 
 ## Usage
 
-This section should include screenshots, code blocks, or animations explaining how to use your project.
+To use the Loan Qualifier App simply use the daily_rate_sheet.csv to load the list of lenders.
+Then answer some basic qualification questions about your credit score, debt, income, loan amout requested and home value.
+You then will have an option to save your list of loans that meet your qualifications to a qualified_loans.csv file.
 
 ---
 
 ## Contributors
 
-In this section, list all the people who contribute to this project. You might want recruiters or potential collaborators to reach you, so include your contact email and, optionally, your LinkedIn or Twitter profile.
+Parts of this application were written by Jim Hitchcock, starter code provided by GWU FinTech Bootcamp.
+Further review and debugging provided by AskBCS help desk.
 
 ---
 
 ## License
 
-When you share a project on a repository, especially a public one, it's important to choose the right license to specify what others can and can't with your source code and files. Use this section to include the license you want to use.
+MIT License
