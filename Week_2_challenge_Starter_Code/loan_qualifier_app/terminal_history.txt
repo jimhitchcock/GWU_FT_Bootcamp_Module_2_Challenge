@@ -1,0 +1,1094 @@
+   50   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51412 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   51   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51609 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   52   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51617 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   53   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51625 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   54   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51690 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   55   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51697 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   56   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51704 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   57   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51778 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   58   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51969 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   59   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51976 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   60   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51984 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   61   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51990 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   62   cd /Users/jimhitchcock/Desktop/github_upload\  ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 51996 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   63  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   64  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   65  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   66  conda activate dev
+   67  clear
+   68  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   69  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   70  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   71  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   72  clear
+   73  python loan_analyzer.py
+   74  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   75   /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52048 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   76   cd /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52056 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   77   cd /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52290 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   78   cd /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 52301 -- /Users/jimhitchcock/Desktop/github_upload\ /Challenge_files/Week_1_challenge/loan_analyzer.py 
+   79  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   80  conda activate dev
+   81  python loan_analyzer.py
+   82  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   83  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   84  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   85  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   86  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   87  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /Challenge_files/Week_1_challenge/loan_analyzer.py"
+   88  clear
+   89  conda activate dev
+   90  clear
+   91  python inexpensive_loans.csv
+   92  clear
+   93  python loan_analyzer.py
+   94  clear
+   95  python loan_analyzer.py
+   96  clear
+   97  /usr/bin/python3 "/Users/jimhitchcock/Desktop/github_upload /main..py"
+   98  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/Jims_samples.py"
+   99  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/Jims_samples.py"
+  100  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/Jims_samples.py"
+  101  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/Jims_samples.py"
+  102  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/Jims_samples.py"
+  103  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/Jims_samples.py"
+  104  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/Jims_samples.py"
+  105  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/02_Returned_Goods/Unsolved/returned_goods.py"
+  106  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/02_Returned_Goods/Unsolved/returned_goods.py"
+  107  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/02_Returned_Goods/Unsolved/returned_goods.py"
+  108  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/02_Returned_Goods/Unsolved/returned_goods.py"
+  109  clear
+  110  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/02_Returned_Goods/Unsolved/returned_goods.py"
+  111  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/02_Returned_Goods/Solved/returned_goods.py"
+  112  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  113  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  114  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  115  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py"
+  116  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py"
+  117  clear
+  118  clear
+  119  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py"
+  120  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  121  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  122  clear
+  123  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  124  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  125  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  126  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Solved/split_second_part_2.py"
+  127  clear
+  128  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  129  /usr/bin/python3 "/Users/jimhitchcock/Desktop/Practice Files/03_Split_Second_Homebuying_Part_2/Unsolved/split_second_part_2.py"
+  130  /usr/bin/python3 /Users/jimhitchcock/first.py
+  131  conda activate dev
+  132  pip install fire
+  133  pip install questionary
+  134  git pull
+  135  git fetch --all
+  136  clear
+  137  cd desktop
+  138  ls
+  139  cd FinTech-Workspace
+  140  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  141  git pull
+  142  git lfs install
+  143  git lfs install
+  144  git lfs install
+  145  git clone https://gw.bootcampcontent.com/GW-Coding-Boot-Camp/GWU-VIRT-FIN-PT-07-2022-U-B.git
+  146  git pull
+  147  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  148  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Loan_Qualifier_Financial_Calculations/Solved/app.py
+  149  clear
+  150  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Loan_Qualifier_Financial_Calculations/Unsolved/app.py
+  151  cd
+  152  cd desktop
+  153  ls
+  154  cd 01_Loan_Qualifier_Financial_Calculations
+  155  ls
+  156  cd 02_Loan_Qualifier_Filtering_Data
+  157  ls
+  158  cd Unsolved
+  159  python app.py
+  160  clear
+  161  python app.py
+  162  clear
+  163  cd ..
+  164  cd Unsolved
+  165  conda activate dev
+  166  clear
+  167  python app.py
+  168  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Loan_Qualifier_Financial_Calculations/02_Loan_Qualifier_Filtering_Data/Solved/app.py
+  169  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Loan_Qualifier_Financial_Calculations/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  170  clear
+  171  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Loan_Qualifier_Financial_Calculations/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  172  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Loan_Qualifier_Financial_Calculations/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  173  clear
+  174  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Loan_Qualifier_Financial_Calculations/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  175  clear
+  176  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Loan_Qualifier_Financial_Calculations/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  177  cd
+  178  cd ../
+  179  cd desktop
+  180  cd jimhitchcock
+  181  cd desktop
+  182  cd 01_Loan_Qualifier_Financial_Calculations
+  183  ls
+  184  cd 02_Loan_Qualifier_Filtering_Data
+  185  cd Unsolved
+  186  ls
+  187  conda activate de
+  188  conda activate dev
+  189  python app.py
+  190  python app.py
+  191  clear
+  192  python app.py
+  193  clear
+  194  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Loan_Qualifier_Financial_Calculations/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  195  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Loan_Qualifier_Financial_Calculations/02_Loan_Qualifier_Filtering_Data/Unsolved/app.py
+  196  clear
+  197  python app.py
+  198  python app.py
+  199  clear
+  200  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  201  /usr/bin/python3 /Users/jimhitchcock/Desktop/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  202  cd ../..
+  203  cd FinTech-Workspace
+  204  git pull
+  205  ls
+  206  cd gwu
+  207  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  208  git pull
+  209  conda activate dev
+  210  clear
+  211  ls
+  212  cd 01-Live-Sessions
+  213  la
+  214  la
+  215  ls
+  216  cd 02-Financial-Applications-Python
+  217  ls
+  218  cd 1
+  219  ls
+  220  cd Activities
+  221  ls
+  222  ls
+  223  clear
+  224  open
+  225  clear
+  226  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/01-variables-01/Unsolved/variables-01.py
+  227  conda activate dev
+  228  clear
+  229  ls
+  230  cd 1
+  231  ls
+  232  cd Activities
+  233  ls
+  234  cd 01_Stu_Python_Code_Drills
+  235  ls
+  236  cd Unsolved
+  237  ls
+  238  clear
+  239  ls
+  240  cd 01-variables-01
+  241  ls
+  242  cd Unsolved
+  243  ls
+  244  python variables-01.py
+  245  clear
+  246  python variables-01.py
+  247  python variables-01.py
+  248  python variables-01.py
+  249  clear
+  250  python variables-01.py
+  251  python variables-01.py
+  252  python variables-01.py
+  253  python variables-01.py
+  254  clear
+  255  python variables-01.py
+  256  python variables-01.py
+  257  clear
+  258  ls
+  259  cd .
+  260  cd ..
+  261  cd ..
+  262  ls
+  263  cd 02-lists-01
+  264  ls
+  265  cd Unsolved
+  266  ls
+  267  clear
+  268  python lists-01.py
+  269  python lists-01.py
+  270  python lists-01.py
+  271  clear
+  272  python lists-01.py
+  273  cd ../
+  274  cd ..
+  275  ls
+  276  cd 03-dicts-01
+  277  cd Unsolved
+  278  python dicts-01.py
+  279  cd ..
+  280  ls
+  281  cd ..
+  282  ls
+  283  cd 04-condition-control-flow-01
+  284  cd Unsolved
+  285  python condition-control-flow-01.py
+  286  clear
+  287  python condition-control-flow-01.py
+  288  python condition-control-flow-01.py
+  289  python condition-control-flow-01.py
+  290  clear
+  291  python condition-control-flow-01.py
+  292  python condition-control-flow-01.py
+  293  clear
+  294  git pull
+  295  git fetch --all
+  296  cd
+  297  cd .ssh
+  298  ls -las
+  299  more id_rsa.pub
+  300  pwd
+  301  cd desktop
+  302  cd FinTech-Workspace
+  303  cd
+  304  cd Desktop
+  305  cd FinTech-Workspace
+  306  ls
+  307  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  308  pwd
+  309  -lsa
+  310  ls -lsa
+  311  git pull
+  312  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  313  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  314  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  315  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  316  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  317  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  318  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  319  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  320  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  321  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  322  clear
+  323  conda activate dev
+  324  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  325  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  326  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  327  clear
+  328  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  329  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Solved/atm.py
+  330  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  331  clear
+  332  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  333  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  334  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  335  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  336  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  337  clear
+  338  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  339  git pull
+  340  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  341  git pull
+  342  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  343  clear
+  344  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  345  clear
+  346  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/atm.py
+  347  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  348  git pull
+  349  clear
+  350  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/02-lists-01/Unsolved/lists-01.py
+  351  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/03-dicts-01/Unsolved/dicts-01.py
+  352  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  353  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  354  clear
+  355  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  356  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  357  clear
+  358  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  359  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/04-condition-control-flow-01/Unsolved/condition-control-flow-01.py
+  360  clear
+  361  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  362  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  363  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  364  /usr/bin/python3
+  365   /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65487 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py 
+  366   cd /Users/jimhitchcock/Desktop/FinTech-Workspace ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.10.1/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 65497 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py 
+  367  clear
+  368  conda activate dev
+  369  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  370  ls
+  371  cd 01-Live-Sessions
+  372  ls
+  373  cd 02
+  374  cd 02-Financial-Applications-Python
+  375  ls
+  376  cd 1
+  377  ls
+  378  cd Activities
+  379  ls
+  380  cd 01_Stu_Python_Code_Drills
+  381  ls
+  382  cd Unsolved
+  383  ls
+  384  cd 05-dicts-02/ls
+  385  cd
+  386  clear
+  387  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  388  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  389  clear
+  390  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  391  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  392  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  393  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  394  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  395  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  396  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  397  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  398  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  399  /usr/bin/python3
+  400  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  401  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  402  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  403  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  404  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/05-dicts-02/Unsolved/dicts-02.py
+  405  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  406  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  407  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  408  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  409  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  410  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  411  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  412  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  413  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  414  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  415  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  416  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/06-loops-01/Unsolved/loops-01.py
+  417  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  418  clear
+  419  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  420  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  421  clear
+  422  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  423  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  424  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  425  clear
+  426  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  427  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  428  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  429  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  430  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  431  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  432  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  433  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/07-functions-01/Unsolved/functions-01.py
+  434  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  435  clear
+  436  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  437  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  438  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  439  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  440  clear
+  441  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  442  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  443  clear
+  444  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  445  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  446  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/08-functions-02/Unsolved/functions-02.py
+  447  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  448  clear
+  449  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  450  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  451  clear
+  452  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  453  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  454  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/01_Stu_Python_Code_Drills/Unsolved/09-csv-01/Unsolved/csv-01.py
+  455  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Solved/atm.py
+  456  clear
+  457  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Solved/atm.py
+  458  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  459  clear
+  460  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  461  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Solved/atm.py
+  462  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Unsolved/atm.py
+  463  clear
+  464  conda activate dev
+  465  clear
+  466  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Solved/atm.py
+  467  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Solved/atm.py
+  468  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Solved/atm.py
+  469  pwd
+  470  cd desktop
+  471  cd FinTech-Workspace
+  472  pwd
+  473  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  474  ls
+  475  cd 01-Live-Sessions
+  476  pwd
+  477  cd ..
+  478  cd..
+  479  pwd
+  480  ls
+  481  cd ..
+  482  ls
+  483  cd py
+  484  cd Python_Project
+  485  ls
+  486  cd ..
+  487  mkdir test_folder
+  488  ls
+  489  touch fintech-file.txt
+  490  ls
+  491  ls
+  492  cd test_folder
+  493  rm -r
+  494  ls
+  495  cd ..
+  496  ls
+  497  rm fintech-file.txt
+  498  ls
+  499  clear
+  500  ls
+  501  rm test_folder
+  502  ls
+  503  cd ..
+  504  cd FinTech-Workspace
+  505  ls
+  506  rm test_folder
+  507  cd test_folder
+  508  rm -r
+  509  rm -r
+  510  ls
+  511  ls
+  512  cd ..
+  513  rm -r
+  514  ls
+  515  rm -r
+  516  clear
+  517  cd ../..
+  518  cd ..
+  519  clear
+  520  pip install fire
+  521  cd Desktop
+  522  cd FinTech-Workspace
+  523  ls
+  524  cd testing
+  525  touch cli.py
+  526  ls
+  527  cd Desktop
+  528  cd FinTech-Workspace
+  529  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  530  pip install fire
+  531  import fire
+  532  import fire
+  533  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/testing/cli.py
+  534  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/testing/cli.py
+  535  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/testing/cli.py
+  536  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/testing/cli.py
+  537  clear
+  538  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/testing/cli.py
+  539  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/testing/cli.py
+  540  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/testing/cli.py
+  541  clear
+  542  conda activate dev
+  543  python cli.py
+  544  clear
+  545  python cli.py
+  546  clear
+  547  python cli.py
+  548  python cli.py --pants=True
+  549  python cli.py --pants=true
+  550  clear
+  551  python cly.py --pants=True
+  552  python cli.py --pants=True
+  553  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/cli.py
+  554  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/cli.py
+  555  clear
+  556  conda activate dev
+  557  clear
+  558  python cli.py pants=True
+  559  python cli.py pants=True
+  560  ls
+  561  cd 01_Adding_Fire_to_the_Loan_Qualifier_App
+  562  clear
+  563  ls
+  564  cd Unsolved
+  565  ls
+  566  clear
+  567  python app.py
+  568  clear
+  569  python app.py --credit_score=750
+  570  clear
+  571  python app.py --credit_score=750 --debt=5000, ==income=6000
+  572  python app.py --credit_score=750 --debt=5000 ==income=60000
+  573  python app.py --credit_score=750 --debt=5000 --income=6000
+  574  cd ..
+  575  ls
+  576  clear
+  577  python dialog.py
+  578  python dialog.py
+  579  python dialog.py
+  580  clear
+  581  python dialog.py
+  582  python dialog.py
+  583  clear
+  584  cd ..
+  585  cd 02_Adding_questionary_to_Loan_Qualifier
+  586  python app.py --credit_score=75- --debt=5000 --income=20000
+  587  python app.py --credit_score=750 --debt=5000 --income=20000
+  588  python app.py --credit_score=750 --debt=5000 --income=20000
+  589  python app.py --credit_score=750 --debt=5000 --income=20000
+  590  ls
+  591  cd
+  592  pwd
+  593  cd desktop
+  594  cd FinTech-Workspace
+  595  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  596  ls
+  597  cd 02_Adding_questionary_to_Loan_Qualifier
+  598  cd Unsolved
+  599  clear
+  600  python app.py --credit_score=750 --debt=5000 --income=20000
+  601  python app.py
+  602  python app.py
+  603  clear
+  604  cd ..
+  605  cd Solved
+  606  python app.py
+  607  cd ..
+  608  cd Unsolved
+  609  clear
+  610  python app.py
+  611  python app.py
+  612  clear
+  613  python app.py
+  614  git clone https://github.com/jimhitchcock/FinTech-Repository.git
+  615  git status
+  616  pwd
+  617  git status
+  618  conda activate dev
+  619  git status
+  620  clear
+  621  git status
+  622  git add README.md
+  623  cd ..
+  624  cd FinTech
+  625  git status
+  626  clear
+  627  git status
+  628  git pull
+  629  pip install questionary
+  630  git config --global user.name
+  631  cd desktop
+  632  ls
+  633  cd FinTech-Workspace
+  634  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  635  git pull
+  636  clear
+  637  cd desktop
+  638  cd ..
+  639  mkdir FinTech Repository
+  640  ls
+  641  cd FinTech
+  642  git clone https://github.com/jimhitchcock/FinTech-Repository.git
+  643  git status
+  644  git status
+  645  git clone https://github.com/jimhitchcock/FinTech-Repository.git
+  646  git pull
+  647  cd 01-Live-Sessions
+  648  ls
+  649  cd 02-Financial-Applications-Python
+  650  ls
+  651  cd 2
+  652  ls
+  653  cd Activities
+  654  ls
+  655  cd 01_Ins_ATM_Application
+  656  ls
+  657  cd Solved
+  658  python atm
+  659  clear
+  660  conda create -n atmdev python=3.7 anaconda
+  661  conda activate atmdev
+  662  pip install -r requirements.txt
+  663  pip install -r requirements.txt
+  664  clear
+  665  pip install -r requirements.txt
+  666  clear
+  667  python atm
+  668  pip install -r requirements.txt
+  669  pip install -r requirements.txt
+  670  pip install -r requirements.txt
+  671  pip install -r requirements.txt
+  672  /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+  673  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+  674  clear
+  675  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+  676  cd
+  677  cd desktop
+  678  cd FinTech-Workspace
+  679  cd
+  680  cd desktop
+  681  cd FinTech-Workspace
+  682  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  683  ls
+  684  cd 01_L
+  685  cd 01-Live-Sessions
+  686  ls
+  687  cd 02-Financial-Applications-Python
+  688  ls
+  689  cd 2
+  690  ls
+  691  cd Activities
+  692  cd
+  693  01-Live-Sessions/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+  694  /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+  695  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved
+  696  ;d
+  697  ls
+  698  clear
+  699  python atm
+  700  python atm
+  701  fire==0.3.1
+  702  /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/atm
+  703  conda activate atmdev
+  704  /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/atm
+  705  cd ..
+  706  ls
+  707  cd ..
+  708  ls
+  709  cd 03
+  710  cd 03_Stu_Create_Github_Repository
+  711  ls
+  712  cd atm
+  713  ls
+  714  cd atm
+  715  ls
+  716  git status
+  717  git add .
+  718  git status
+  719  git commit -m "adding ATM folder"
+  720  git push
+  721  git push
+  722  git push
+  723  git push
+  724  git push
+  725  clear
+  726  git push
+  727  git push 
+  728  git push
+  729  git push
+  730  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/atm
+  731  git push
+  732  ls ~al ~/.ssh
+  733  ls -al~/.ssh
+  734  ls -al ~/.ssh
+  735  ssh-keygen -t rsa -b 4096 -C "jim@jhitch.com"
+  736  eval "$(ssh-agent -s)"
+  737  ssh-add ~/.ssh/id_rsa
+  738  pbcopy < ~/.ssh/id_rsa.pub
+  739  ssh _T git@github.com
+  740  ssh-T git@github.com
+  741  ssh -T git@github.com
+  742  ssh –T git@github.com
+  743  ssh -T git@github.com
+  744  conda activate atmdev
+  745  ls
+  746  cd 01-Live-Sessions
+  747  ls
+  748  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/02_Stu_Build_ATM_Functions/Solved/requirements.txt
+  749  ls
+  750  cd 02-Financial-Applications-Python
+  751  ls
+  752  cd 2
+  753  ls
+  754  cd Activities
+  755  ls
+  756  cd 02_Stu_Build_ATM_Functions
+  757  ls
+  758  cd Solved
+  759  ls
+  760  pip install -r requirements.txt
+  761  clear
+  762  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository
+  763  git clone https://github.com/jimhitchcock/atm.git
+  764  git status
+  765  ls
+  766  clear
+  767  git status
+  768  clear
+  769  cd atm
+  770  git status
+  771  git add
+  772  git commit -m
+  773  clear
+  774  git status
+  775  git commit -m changed read me file
+  776  git commit -m "changed read me file"
+  777  git add
+  778  git add
+  779  git status
+  780  git pull
+  781  clear
+  782  conda activate atmdev
+  783  clear
+  784  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/atm
+  785  git status
+  786  git commit -m "added jims to the top"
+  787  git commit -a "added jims to the top"
+  788  git commit -m added jims to the top
+  789  git commit -m"added jims to the top"
+  790  git add README.md "updated with jims at the top"
+  791  git commit
+  792  git add
+  793  git add .README.md
+  794  clear
+  795  git status
+  796  git add README.md
+  797  git status
+  798  git add README.md
+  799  conda deactivate dev
+  800  conda deactivate atmdev
+  801  conda deactivate atmdev
+  802  clear
+  803  conda deactivate atmdev
+  804  git add README.md
+  805  git status
+  806  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/atm
+  807  git status
+  808  git add README.md
+  809  git add ../README.md
+  810  git status
+  811  touch new_file.txt
+  812  ls
+  813  git status
+  814  git add new_file.txt
+  815  git status
+  816  git commit -m "added jims to the top of README and added new_file"
+  817  git status
+  818  git config --global --edit
+  819  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/atm
+  820  git status
+  821  git push
+  822  jimhitchcock
+  823  git status
+  824  git push
+  825  git config --global jim.hitchcock
+  826  git config --global user.name jimhitchcock
+  827  git config --global user.email jim@jhitch.com
+  828  cd desktop
+  829  cd FinTech-Workspace
+  830  cd G
+  831  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  832  ls
+  833  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm
+  834  git clone git@github.com:jimhitchcock/Module_243_assignment_test.git
+  835  ls
+  836  git status
+  837  git add -A
+  838  git status
+  839  git commit -m "deleted files and renamed repo"
+  840  git status
+  841  git add
+  842  git add .fun.py
+  843  git add fun.py
+  844  git status
+  845  git add -A
+  846  git status
+  847  git add "fun.py"
+  848  git commit
+  849  git add -A
+  850  cd ..
+  851  ls
+  852  cd ..
+  853  ls
+  854  /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/Module_243_assignment_test
+  855  cd 2
+  856  ls
+  857  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm
+  858  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/Module_243_assignment_test
+  859  git status
+  860  git add -A
+  861  git status
+  862  git commit -m "added fun to the project"
+  863  git status
+  864  git push
+  865  git status
+  866  conda activate atmdev
+  867  /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/Module_243_assignment_test/fun.py
+  868  conda activate atmdev
+  869  /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/Module_243_assignment_test/fun.py
+  870  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/Module_243_assignment_test
+  871  git status
+  872  git commit
+  873  git add README.md
+  874  git status
+  875  git commit -m "Updated README file"
+  876  git status
+  877  git push
+  878  git status
+  879  git add README.md
+  880  git status
+  881  git add README copy.md
+  882  git add README_copy.md
+  883  git status
+  884  git commit
+  885  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/03_Stu_Create_Github_Repository/atm/Module_243_assignment_test
+  886  git status
+  887  git commit -m "Updated readme file"
+  888  git push
+  889  git status
+  890  git add README_copy.md
+  891  git commit -m "Updated readme file"
+  892  git push
+  893  cd desktop
+  894  cd
+  895  cd desktop
+  896  cd FinTech-Workspace
+  897  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  898  git pull
+  899  git pull
+  900  git clone git@github.com:jimhitchcock/GWU_FT_Bootcamp_Module_2_Challenge.git
+  901  conda activate atmdev
+  902   /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56770 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  903   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56780 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  904   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56790 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  905   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56798 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  906   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56805 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  907   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56813 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  908   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56820 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  909   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56827 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  910   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56836 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  911   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56847 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  912   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56861 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  913   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56869 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  914   cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B ; /usr/bin/env /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56884 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/02-Challenges/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py 
+  915  conda activate atmdev
+  916  /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Solved/atm.py
+  917  /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Solved/atm.py
+  918  clear
+  919  /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Solved/atm.py
+  920  /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Solved/atm.py
+  921  clear
+  922  /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/atm.py
+  923  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/utils.py
+  924   /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56927 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/utils.py 
+  925   cd /Users/jimhitchcock/Desktop/FinTech-Workspace ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 56936 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/utils.py 
+  926  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/atm.py
+  927  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved
+  928  ls
+  929  python atm
+  930  cd ../
+  931  cd
+  932  cd desktop
+  933  cd F
+  934  cd FinTech-Workspace
+  935  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  936  git pull
+  937  clear
+  938  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/04_Stu_ATM_Application_Code/Solved
+  939  python atm.py
+  940  cd 
+  941  cd desktop
+  942  cd F
+  943  cd FinTech-Workspace
+  944  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  945  ls
+  946  cd 01-Live-Sessions
+  947  ls
+  948  cd 02-Financial-Applications-Python
+  949  ls
+  950  cd 1
+  951  ls
+  952  cd Activities
+  953  ls
+  954  cd 05_Stu_ATM_Modularization/ls
+  955  cd 05_Stu_ATM_Modularization
+  956  ls
+  957  cd Solved
+  958  clear
+  959  python atm
+  960   /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59295 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/atm.py 
+  961   cd /Users/jimhitchcock/Desktop/FinTech-Workspace ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59486 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/utils.py 
+  962   cd /Users/jimhitchcock/Desktop/FinTech-Workspace ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59494 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/utils.py 
+  963   cd /Users/jimhitchcock/Desktop/FinTech-Workspace ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59849 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/utils.py 
+  964   cd /Users/jimhitchcock/Desktop/FinTech-Workspace ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59857 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/utils.py 
+  965   cd /Users/jimhitchcock/Desktop/FinTech-Workspace ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59867 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/utils.py 
+  966   cd /Users/jimhitchcock/Desktop/FinTech-Workspace ; /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 59874 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/utils.py 
+  967  ls
+  968  git install lfs git@gw.bootcampcontent.com:GW-Coding-Boot-Camp/GWU-VIRT-FIN-PT-07-2022-U-B.git
+  969  git install lfs
+  970  git install
+  971  git install lfs
+  972  "git install lfs"
+  973  clear
+  974  git clone git@gw.bootcampcontent.com:GW-Coding-Boot-Camp/GWU-VIRT-FIN-PT-07-2022-U-B.git
+  975  clear
+  976  git lfs install
+  977  git lfs install
+  978  git lfs install git@gw.bootcampcontent.com:GW-Coding-Boot-Camp/GWU-VIRT-FIN-PT-07-2022-U-B.git
+  979  clear
+  980  git lfs install
+  981  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Unsolved/atm/atm.py
+  982  conda activate dev
+  983  clear
+  984  git lfs install
+  985  git clone git@gw.bootcampcontent.com:GW-Coding-Boot-Camp/GWU-VIRT-FIN-PT-07-2022-U-B.git
+  986  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+  987  conda activate dev
+  988  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved
+  989  clear
+  990  python atm
+  991  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/atm.py
+  992  cd desktop
+  993  cd FinTech-Workspace
+  994  cd GWU-VIRT-FIN-PT-07-2022-U-B
+  995  ls -lsa
+  996  git pull
+  997  git --version
+  998  cd
+  999  brew update
+ 1000  brew install git-lfs
+ 1001  cd desktop
+ 1002  cd FinTech-Workspace
+ 1003  git lfs install
+ 1004  git clone git@gw.bootcampcontent.com:GW-Coding-Boot-Camp/GWU-VIRT-FIN-PT-07-2022-U-B.git
+ 1005  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/1/Activities/05_Stu_ATM_Modularization/Solved/atm/atm.py
+ 1006  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+ 1007  /usr/bin/python3 "/Users/jimhitchcock/Desktop/FinTech-Workspace/FinTech Old Classwork Exercises/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py"
+ 1008   /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61814 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/FinTech\ Old\ Classwork\ Exercises/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py 
+ 1009   /usr/bin/env /usr/bin/python3 /Users/jimhitchcock/.vscode/extensions/ms-python.python-2022.12.0/pythonFiles/lib/python/debugpy/adapter/../../debugpy/launcher 61895 -- /Users/jimhitchcock/Desktop/FinTech-Workspace/FinTech\ Old\ Classwork\ Exercises/01_Adding_Fire_to_the_Loan_Qualifier_App/dialog.py 
+ 1010  /usr/bin/python3 "/Users/jimhitchcock/Desktop/FinTech-Workspace/FinTech Old Classwork Exercises/01_Adding_Fire_to_the_Loan_Qualifier_App/Solved/app.py"
+ 1011  /usr/bin/python3 "/Users/jimhitchcock/Desktop/FinTech-Workspace/FinTech Old Classwork Exercises/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py"
+ 1012  conda activate atmdev
+ 1013  /Users/jimhitchcock/opt/anaconda3/envs/atmdev/bin/python /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/01-Live-Sessions/02-Financial-Applications-Python/2/Activities/01_Ins_ATM_Application/Solved/atm/atm.py
+ 1014  clear
+ 1015  ls
+ 1016  cd 01-Live-Sessions
+ 1017  ls
+ 1018  cd 02-Financial-Applications-Python
+ 1019  cd 2
+ 1020  cd Activities
+ 1021  cd 01_Ins_ATM_Application
+ 1022  ls
+ 1023  cd Solved
+ 1024  clear
+ 1025  ls
+ 1026  clear
+ 1027  python atm
+ 1028  clear
+ 1029  python atm
+ 1030  clear
+ 1031  python app.py
+ 1032  ls
+ 1033  pwd
+ 1034  cd atm
+ 1035  ls
+ 1036  python atm.py
+ 1037  ls
+ 1038  python app.py
+ 1039  conda activate dev
+ 1040  python app.py
+ 1041  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+ 1042  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app
+ 1043  conda activate dev
+ 1044  clear
+ 1045  git status
+ 1046  git commit -m
+ 1047  git commit
+ 1048  clear
+ 1049  git status
+ 1050  git commit -m "Modified files"
+ 1051  git push
+ 1052  git status
+ 1053  cd /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app
+ 1054  ls
+ 1055  python app.py
+ 1056  clear
+ 1057  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/qualifier/utils/fileio.py
+ 1058  git status
+ 1059  git add app.py
+ 1060  git add qualifier/utils/fileio.py
+ 1061  git commit -m
+ 1062  git status
+ 1063  clear
+ 1064  git status
+ 1065  git push
+ 1066  git status
+ 1067  git commit -m
+ 1068  git commit
+ 1069  git status
+ 1070  git commit app.py
+ 1071  git status
+ 1072  git add app.py
+ 1073  git status
+ 1074  git commit app.py
+ 1075  clear
+ 1076  git status
+ 1077  git commit -m "Updated app and fileio"
+ 1078  git push
+ 1079  git status
+ 1080  clear
+ 1081  git status
+ 1082  git add app.py
+ 1083  git commit -m "updated the app.py file"
+ 1084  git push
+ 1085  clear
+ 1086  git add app.py
+ 1087  git commit - m "updated app.py file"
+ 1088  git push
+ 1089  python app.py
+ 1090  python app.py
+ 1091  python app.py
+ 1092  clear
+ 1093  python app.py
+ 1094  python app.py
+ 1095  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py
+ 1096  clear
+ 1097  python app.py
+ 1098  python app.py
+ 1099  clear
+ 1100  python app.py
+ 1101  python app.py
+ 1102  clear
+ 1103  python app.py
+ 1104  python app.py
+ 1105  clear
+ 1106  python app.py
+ 1107  clear
+ 1108  python app.py
+ 1109  python app.py
+ 1110  /usr/bin/python3 /Users/jimhitchcock/Desktop/FinTech-Workspace/GWU-VIRT-FIN-PT-07-2022-U-B/Week_2_challenge_Starter_Code/GWU_FT_Bootcamp_Module_2_Challenge/Week_2_challenge_Starter_Code/loan_qualifier_app/app.py
+ 1111  clear
+ 1112  python app.py
+ 1113  clear
+ 1114  python app.py
+ 1115  pip import fire
+ 1116  pip install fire
+ 1117  clear
+ 1118  python app.py
+ 1119  clear
+ 1120  python app.py
+ 1121  clear
+ 1122  python app.py
+ 1123  clear
+ 1124  python app.py
+ 1125  clear
+ 1126  python app.py
+ 1127  git git status
+ 1128  git status
+ 1129  git add qualifying_loans.csv
+ 1130  git status
+ 1131  git add app.py, data/saved_loans.csv, qualifier/utils/fileio.py
+ 1132  clear
+ 1133  git status
+ 1134  git add qualifier/utils/fileio.py
+ 1135  git status
+ 1136  git add app.py
+ 1137  git add data/saved_loans.csv
+ 1138  git status
+ 1139  git commit -m "Updated app.py & fileio.py, added qualifying_loans.csv and deleted saved_loans.csv"
+ 1140  git push
+ 1141  clear
+ 1142  git status
+ 1143  history 50 > terminal_history.txt
