@@ -10,19 +10,22 @@ The loan qualifier app will allow the user to easily filter and return only the 
 ## Technologies
 
 This app was written with [Python 3.7.13](https://www.python.org/downloads/release/python-3713/)
+
 Command Line Interface ussing the: 
+
 [Fire library](https://pypi.org/project/fire/)
 [Questionary Library](https://pypi.org/project/questionary/)
-
-Describe the technologies required to use your project such as programming languages, libraries, frameworks, and operating systems. Be sure to include the specific versions of any critical dependencies that you have used in the stable version of your project.
 
 ---
 
 ## Installation Guide
 
 Before running the application first install the following dependencies. 
-```pip install fire
-   pip install questionary```
+
+```python
+pip install fire
+   pip install questionary
+```
 
 ---
 
