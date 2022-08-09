@@ -14,6 +14,7 @@ This app was written with [Python 3.7.13](https://www.python.org/downloads/relea
 Command Line Interface ussing the: 
 
 [Fire library](https://pypi.org/project/fire/)
+
 [Questionary Library](https://pypi.org/project/questionary/)
 
 ---
@@ -23,8 +24,8 @@ Command Line Interface ussing the:
 Before running the application first install the following dependencies. 
 
 ```python
-pip install fire
-   pip install questionary
+    pip install fire
+    pip install questionary
 ```
 
 ---
