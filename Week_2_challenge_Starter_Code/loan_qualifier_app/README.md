@@ -3,7 +3,7 @@
 **Welcome to my repository for the Loan Qualifier App.  Please explore the codebase!**
 >"...making finding loans easy!"
 
-The loan qualifier app will allow the user to easily filter and return only the loans that the user qualifies.  No more searching through endless spreadsheets of lenders and manually matching their quidelines to your qualifications.
+The loan qualifier app will allow the user to easily filter and return only the loans that the user qualifies.  No more searching through endless spreadsheets of lenders and manually matching their quidelines to your qualifications.  Just load the path for your daily rate sheet and when prompted, you can choose to save your list of loans your qualify in the qualifying_loans.csv file for future reference.
 
 ---
 
